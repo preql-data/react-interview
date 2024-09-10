@@ -7,6 +7,7 @@ In this exercise, you’ll integrate a public API to create a table displaying u
 1. **Public API Integration:**
 You’ll use the Random User API to fetch a list of users.
     - **API Example**: `https://randomuser.me/api/?page=1`
+    - documentation: https://randomuser.me/documentation#format
     
     You will implement a table with the following features:
     
