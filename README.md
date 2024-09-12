@@ -31,7 +31,7 @@ You’ll start with an empty React project, and you’re free to install any lib
 
 ### **Submission Guidelines:**
 
-- **Time Estimate**: This exercise should take approximately 1 hour.
+- **Time Estimate**: This exercise has a time cap of 1 hour, it's clear that the scope might be bigger than that, Plan and prioritize your steps.
 - Once completed, please submit a zip file of your project.
 
 ### **Evaluation Criteria:**
